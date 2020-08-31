@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerClass", "PlayerClass\PlayerClass.csproj", "{59EB10BF-8510-46D2-8ACE-41DE0D5096EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59EB10BF-8510-46D2-8ACE-41DE0D5096EE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{59EB10BF-8510-46D2-8ACE-41DE0D5096EE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{59EB10BF-8510-46D2-8ACE-41DE0D5096EE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{59EB10BF-8510-46D2-8ACE-41DE0D5096EE}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
